@@ -94,7 +94,7 @@ function App() {
       </section>
 
       <footer className="py-8 text-center relative z-10">
-        <p>© 2025 OpenRisk | <a href="https://github.com/youruser/OpenRisk" className="underline">GitHub</a> | <a href="/docs" className="underline">Documentation</a></p>
+        <p>© 2025 OpenRisk | <a href="https://github.com/alex-dembele/OpenRisk" className="underline">GitHub</a> | <a href="/docs" className="underline">Documentation</a></p>
       </footer>
     </div>
   );
